@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <meta charset="UTF-8"
+
+         <title>contato - thiago</title>
+    </head>
+    <body>
+
+        <header>
+                <h1>thiago
+        </header>
+
+         <nav>
+         <a href="index.html">inicio</a>
+         <a href="sobremim.html">sobre mim</a>
+         <a href="contato.html">contato</a>
+         </nav>
+
+         <section>
+              <h2> Entre em contato</h2>
+              <p> preencha o formulario para enviar uma mensagem.</p>
+              <form>
+                   <label>nome:</label><br>
+                   <input type"text"><br></br>
+                   <label>E-mail:</label
